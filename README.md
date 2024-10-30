@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sobikathangaraj
-- 👀 I’m interested to Code
+- 👀 passionate to Code
 - 🌱 I’m currently learning Java and DSA Solving
 - 📫 How to reach me sobika0505@gmail.com
 - 😄 Pronouns: Sobika (she/her)
