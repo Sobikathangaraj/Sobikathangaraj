@@ -1,4 +1,4 @@
-[![MasterHead](https://academicresourcecenter.harvard.edu/files/2023/10/ARC_Website_Content_Note_Taking.jpeg)]
+![MasterHead](https://academicresourcecenter.harvard.edu/files/2023/10/ARC_Website_Content_Note_Taking.jpeg)
 
 <h1 align="center">Hi 👋, I'm Sobikathangaraj</h1>
 <h3 align="center">A passionate coder from India</h3>
