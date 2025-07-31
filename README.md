@@ -16,8 +16,7 @@
 - 💬 Ask me about **Java, React, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **sobika0505@gmail.com**
-
-⚡ Fun fact: My laptop gets more attention than my phone — code is my comfort zone!  🤓💻
+- ⚡ Fun fact: **My laptop gets more attention than my phone — code is my comfort zone!**  🤓💻
 - To Know more about me! --> https://sobikathangaraj.github.io/MyPortfolio/
 
 <h3 align="left">Connect with me:</h3>
