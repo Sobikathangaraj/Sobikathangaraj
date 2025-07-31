@@ -18,6 +18,7 @@
 - 📫 How to reach me **sobika0505@gmail.com**
 
 - ⚡ Fun fact **Always using my laptop to code, some craze in this😂**
+- To Know more about me! --> https://sobikathangaraj.github.io/MyPortfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
