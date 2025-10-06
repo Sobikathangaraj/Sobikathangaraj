@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js**
 
-- 👯 I’m looking to collaborate on **Full Stack Development **
+- 👯 I’m looking to collaborate on **Full Stack Development**
 
-- 👨‍💻 To know more Visit [RESUME]([https://sobikapersonalwebsite.my.canva.site/sobika-thangaraj](https://drive.google.com/file/d/1vblgvdBoLLz4Mk_t2S80eg0fNI5c3SPM/view?usp=drivesdk))
+- 👨‍💻 To know more Visit my [Resume Website](https://sobikapersonalwebsite.my.canva.site/sobika-thangaraj)
 
 - 💬 Ask me about **Java, React, JavaScript,node.js,Mongodb**
 
