@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Backend development projects**
 - 🌱 I’m currently learning **Node.js & Mongodb**
 - 👯 I’m looking to collaborate on **Full Stack Development**
-- 👨‍💻 Check out my [Resume](https://drive.google.com/file/d/1vblgvdBoLLz4Mk_t2S80eg0fNI5c3SPM/view)
+- 👨‍💻 Check out my [Resume](https://drive.google.com/file/d/1cyrg0U4LisNBGHu0LQc0b8nHFxRUqeel/view)
 - 💬 Ask me about **Java, React, JavaScript, Node.js, MongoDB**
 - 📫 How to reach me: **Sobika0505@gmail.com**
 - ⚡ **Fun fact:** I'm most alive when coding — my laptop is basically an extension of me! 💻😄
